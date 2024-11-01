@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hi there 👋
+## Find the truth before it's too late
+## exit the system before it corrupts you
+#### 
 
 <!--
 **voyager7Space/voyager7Space** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
